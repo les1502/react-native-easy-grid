@@ -1,7 +1,7 @@
 # React Native Easy Grid 🐵
 ![Master Build Status](https://travis-ci.org/GeekyAnts/react-native-easy-grid.svg?branch=master) <br />
 
-This is NOT-JUST-ANOTHER-GRID-LAYOUT library! We are trying to simplify flexbox with easier approach.
+react简易布局样式
 
 ## Installation
 
